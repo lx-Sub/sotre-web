@@ -1,7 +1,7 @@
 module.exports = {
   lintOnSave: false, // 关闭语法检查
   devServer: {
-    port: 8080,
+    port: 9272,
     proxy: {
       '/dev': {
         // 请求前缀
