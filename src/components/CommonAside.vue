@@ -14,7 +14,7 @@
         style="width: 32px; position: relative; top: 5px; margin-right:2px"
       />
       <span style="color: black; font-weight: bold;font-size: 18px;">
-        {{ isCollapse ? '' : '人力资源管理系统' }}
+        {{ isCollapse ? '' : '运动装备交易社区' }}
       </span>
     </div>
     <el-menu-item

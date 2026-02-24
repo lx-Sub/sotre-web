@@ -57,7 +57,6 @@ export const getOne = (id) => {
   })
 }
 
-require("vue-vibe")
 
 // 数据导入
 export const getImportApi = () => {

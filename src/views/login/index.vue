@@ -10,7 +10,7 @@
       <div style="height: 60px; line-height: 60px; text-align: center">
         <img src="../../assets/logo.png" alt="" style="width: 50px; position: relative; top: 12px;" />
         <b style="color: black; font-weight: bold;font-size: 28px;">
-          人力资源管理系统
+          运动装备交易社区
         </b>
       </div>
       <el-form :rules="rules" :model="staff" ref="loginForm">

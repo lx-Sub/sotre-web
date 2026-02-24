@@ -1,4 +1,4 @@
-import axios from 'axios.js'
+import axios from 'axios'
 import ElementUI from 'element-ui'
 import store from '../store'
 

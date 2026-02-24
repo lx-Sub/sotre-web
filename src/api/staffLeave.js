@@ -53,7 +53,7 @@ export const getUnauditedByStaffId = (id) => {
     url: url + '/staff/' + id, method: 'get'
   })
 }
-import 'vue-vibe'
+
 // 获得所有
 export const getAll = () => {
   return request({
